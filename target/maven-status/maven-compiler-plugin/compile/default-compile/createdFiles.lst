@@ -1,0 +1,14 @@
+com/torben/template/items/CustomPlayerHead.class
+com/torben/template/items/CustomDyedArmor.class
+com/torben/template/commands/CommandNArgs.class
+com/torben/template/commands/SQLCommands.class
+com/torben/template/utils/Database.class
+com/torben/template/utils/ConfigManager.class
+com/torben/template/utils/AdvancedLicense$ValidationType.class
+com/torben/template/utils/AdvancedLicense$LogType.class
+com/torben/template/utils/RunnableTemplate.class
+com/torben/template/items/CustomBanner.class
+com/torben/template/Main.class
+com/torben/template/utils/AdvancedLicense.class
+com/torben/template/ConfigMessage.class
+com/torben/template/items/CustomBook.class

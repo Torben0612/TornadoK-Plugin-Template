@@ -1,0 +1,4 @@
+name: Template
+version: '${project.version}'
+main: com.torben.template.Main
+api-version: 1.16

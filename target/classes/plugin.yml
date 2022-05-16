@@ -1,0 +1,4 @@
+name: Template
+version: '0.1-BETA'
+main: com.torben.template.Main
+api-version: 1.16
