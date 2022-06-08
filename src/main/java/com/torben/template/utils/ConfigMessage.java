@@ -1,4 +1,4 @@
-package com.torben.template;
+package com.torben.template.utils;
 
 public enum ConfigMessage {
 

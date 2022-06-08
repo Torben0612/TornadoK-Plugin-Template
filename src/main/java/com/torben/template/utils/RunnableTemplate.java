@@ -1,8 +1,6 @@
 package com.torben.template.utils;
 
-import com.torben.template.ConfigMessage;
 import com.torben.template.Main;
-import com.torben.template.utils.ConfigManager;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
@@ -14,7 +12,7 @@ public class RunnableTemplate implements Listener {
 
     ConfigManager manager = new ConfigManager(new Main());
     @EventHandler
-    public void onJoin(PlayerJoinEvent e){
+    public void onJoin(PlayerJoinEvent e){ //change this event to sometin else if ya want
         Player player = e.getPlayer();
         Bukkit.getScheduler().runTaskLater(new Main(), () ->{
             //add task code here

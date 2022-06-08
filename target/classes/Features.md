@@ -1,3 +1,0 @@
-#TornadoK's Plugin Template:
-
- 

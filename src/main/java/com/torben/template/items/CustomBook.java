@@ -1,6 +1,6 @@
 package com.torben.template.items;
 
-import com.torben.template.ConfigMessage;
+import com.torben.template.utils.ConfigMessage;
 import com.torben.template.Main;
 import com.torben.template.utils.ConfigManager;
 import org.bukkit.Material;
@@ -21,7 +21,7 @@ public class CustomBook implements CommandExecutor {
         if (sender instanceof Player) {
             Player player = (Player) sender;
 
-            player.sendMessage( manager.getMessage(ConfigMessage.CUSTOM_BOOK_GIVEN));
+            player.sendMessage(manager.getMessage(ConfigMessage.CUSTOM_BOOK_GIVEN));
 
             ItemStack book = new ItemStack(Material.WRITTEN_BOOK);
             BookMeta meta = (BookMeta) book.getItemMeta();

@@ -1,3 +1,4 @@
 language: 'lang_en' #valid  code are lang_en lang_es more to come
 licencekey: "" #contact CMDRTorbenator#3508 on discord so i can verify you
 database-enabled: true
+bstats-reseorce-id: 00000 # DEVs put your resource id here from bstats website

@@ -1,6 +1,5 @@
 package com.torben.template.utils;
 
-import com.torben.template.ConfigMessage;
 import com.torben.template.Main;
 import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.YamlConfiguration;

@@ -1,4 +1,8 @@
 name: Template
 version: '0.1-BETA'
 main: com.torben.template.Main
-api-version: 1.16
+api-version: "1.13"
+spigot-id: 102040
+commands:
+  book:
+  banner:

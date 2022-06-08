@@ -6,7 +6,8 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 
-public class CustomPlayerHead implements CommandExecutor {
+public class CustomSkull implements CommandExecutor {
+
     ConfigManager manager = new ConfigManager(new Main());
 
 
